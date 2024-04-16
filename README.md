@@ -12,5 +12,5 @@ Mybatis作为数据对象的持久化引擎
 moment.js v2.5.1 ([momentjs.com](https://momentjs.com))
 jQuery v3.2.1 ([https://openjsf.org](https://openjsf.org))
 
---来自CAU试验212 李士杰Kerwn 张德传
+--来自CAU试验212 李士杰Kerwin 张德传
 ![cau.jpg](src%2Fmain%2Fwebapp%2Fimages%2Fcau.jpg)
